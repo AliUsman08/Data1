@@ -1,0 +1,5 @@
+COc1ccc2cc(/C=N/NC3=NC(=O)CS3)ccc2c1 CHEMBL5177928	
+CCOC(=O)Cc1csc(N/N=C/c2ccc3cc(OC)ccc3c2)n1 CHEMBL5176279	
+CCC#CCOc1ccc2cc(C(c3ccc(C#N)cc3)n3cncn3)oc2c1 CHEMBL5179009	
+CC#CCOc1ccc2cc(C(c3ccc(C#N)cc3)n3cncn3)oc2c1 CHEMBL5203413	
+Clc1ccccc1Cn1cc(Cn2ccnc2)c2ccccc21 CHEMBL112021	
